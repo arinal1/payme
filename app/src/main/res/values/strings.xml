@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pay Me</string>
+    <string name="title_home">PayMe!</string>
+    <string name="subtitle_home">List transfer pembayaran</string>
+</resources>
